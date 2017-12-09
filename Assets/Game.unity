@@ -485,7 +485,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1414545341}
-  - component: {fileID: 1414545340}
   - component: {fileID: 1414545339}
   m_Layer: 0
   m_Name: Network Manager
@@ -503,17 +502,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4bf9de605c7e72045a4cb5a80c7dbdbf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1414545340
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1414545338}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -822479833, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_NetworkPort: 7777
